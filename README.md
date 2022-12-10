@@ -32,8 +32,8 @@
     export { default as Features } from './features/Features';
  
   ```
-  - Tricks to create a component easily with a VSCode extension named [React Extension Pack](https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack)
-    - To create a component easily, run this command in the archive .jsx
+- Tricks to create a component easily with a VSCode extension named [React Extension Pack](https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack)
+  - To create a component easily, run this command in the archive .jsx
     ```
     rafce + tab
     ```
