@@ -16,7 +16,7 @@
 
 ## What I learned with this project?
 - Best practise to organize my project
-- Has a archive to import all of components and export it. An example of this
+- To have a archive to import all of components and export it. An example of this
   ```javascript
     import blog01 from '../../assets/blog01.png';
     import blog02 from '../../assets/blog02.png';
